@@ -1,14 +1,50 @@
-# 👋 Hi, I'm Amreena Akhtar 
+# 👋 Hey there, I'm Amreena Akhtar  
 
-I'm a Software Engineering student passionate about becoming a Full Stack Developer.  
-I love building interactive web apps and exploring both frontend and backend technologies.
+🎓 **Software Engineering Student** | 💻 **Aspiring Full Stack Developer** | 🚀 **Always Exploring New Tech**  
 
-### 💻 Tech Stack:
-- **Frontend:** HTML, CSS, JavaScript, Figma
-- **Backend:** Java, Python, MySQL
-- **Tools:** Git, GitHub, VS Code, intellij, Pycharm
+I love building **scalable, modern, and interactive web apps** using the latest technologies.  
+From **frontend UIs** to **backend APIs**, I enjoy the complete journey of development. 🌟  
 
-### 🚀 Goals:
-- Build more full stack projects
-- Collaborate on open-source
-- Land my first developer internship
+---
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,sass,vite,figma&perline=8" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,flask,python,java,cpp&perline=8" />
+</p>
+
+### 🛠 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm&perline=8" />
+</p>
+
+---
+
+## 🚀 Goals for 2025
+- 🌐 Build more **full stack MERN & Next.js projects**  
+- 🤝 Contribute actively to **open-source**  
+- 💼 Land my **first developer internship**  
+- 📖 Sharpen **DSA & problem-solving skills**  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" height="165"/>
+</p>
+
+---
+
+## 🌀 Fun Stuff
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&lines=I+💖+Coding;I+Love+Building+Full+Stack+Apps;Exploring+MERN+%26+NextJS;UI%2FUX+Designing+with+Figma;Learning+Everyday+🚀)](https://git.io/typing-svg)
+
+---
+
+⭐️ From [Amreena Akhtar](https://github.com/YOUR-USERNAME)
