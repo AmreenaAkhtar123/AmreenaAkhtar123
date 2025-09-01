@@ -32,13 +32,6 @@ From **frontend UIs** to **backend APIs**, I enjoy the complete journey of devel
 - 💼 Land my **first developer internship**  
 - 📖 Sharpen **DSA & problem-solving skills**  
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" height="165"/>
-</p>
 
 ---
 
