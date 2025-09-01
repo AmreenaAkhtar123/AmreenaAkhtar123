@@ -49,14 +49,15 @@
 
 ---
 
-## 📊 GitHub Stats <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" height="165"/> </p>
+## 🌀 Fun Stuff
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&lines=I+💖+Coding;I+Love+Building+Full+Stack+Apps;Exploring+MERN+%26+NextJS;UI%2FUX+Designing+with+Figma;Learning+Everyday+🚀)](https://git.io/typing-svg)
 
+---
 
---- ## 🌀 Fun Stuff [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&lines=I+💖+Coding;I+Love+Building+Full+Stack+Apps;Exploring+MERN+%26+NextJS;UI%2FUX+Designing+with+Figma;Learning+Everyday+🚀)](https://git.io/typing-svg) ---
+⭐️ From [Amreena Akhtar](https://github.com/AmreenaAkhtar123)
 
 <!-- Footer Banner -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7873f5,100:ff6ec4&height=120&section=footer"/>
 </p>
 
-⭐️ From [Amreena Akhtar](https://github.com/AmreenaAkhtar123)
